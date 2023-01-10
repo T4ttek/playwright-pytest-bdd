@@ -5,8 +5,7 @@ from pages.google_page import GooglePage
 
 
 google_url = "https://www.google.com"
-email = "meta.testtson"
-password = "meta2022!"
+
 
 
 @scenario('../features/google.feature', 'Log in to google account')
